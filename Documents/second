@@ -4,12 +4,8 @@
     <title>Daily News Portal</title>
 </head>
 <body>
-
-    <!-- Main Title -->
     <h1>Daily News &amp; Media Express</h1>
     <hr>
-
-    <!-- Navigation Structure (<nav> and <a>) -->
     <nav>
         <a href="#national">National News</a> | 
         <a href="#sports">Sports News</a> | 
@@ -19,13 +15,12 @@
     </nav>
     <hr>
 
-    <!-- News Article with Formatting -->
     <h2 id="national">National: Technology Summit 2026</h2>
     <p>
         The annual tech summit commenced today with <b>industry leaders</b> discussing the future of computing. The keynote speaker highlighted that <i>digital infrastructure</i> will be the backbone of our economy, emphasizing that students must learn <u>core technology skills</u> early.
     </p>
 
-    <!-- Working Image -->
+
     <img src="https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=500" alt="Tech Conference Hall" width="500" height="300">
 
     <h2 id="sports">Sports Updates</h2>
@@ -33,7 +28,6 @@
         The national athletics championship concluded today with record-breaking performances. Read detailed coverage on <a href="https://en.wikipedia.org/wiki/Sport" target="_blank">Wikipedia Sports</a>.
     </p>
 
-    <!-- Working Audio Player -->
     <h2 id="podcast">Daily Audio Bulletin</h2>
     <p>Listen to today's news audio clip:</p>
     <audio controls>
@@ -41,7 +35,6 @@
         Your browser does not support the audio element.
     </audio>
 
-    <!-- Working Video Player -->
     <h2>Local Video Clip</h2>
     <p>Watch the recorded clip:</p>
     <video width="500" height="280" controls>
@@ -49,21 +42,17 @@
         Your browser does not support the video tag.
     </video>
 
-    <!-- Working YouTube Embedded Video -->
     <h2 id="video-report">Global Live Report</h2>
     <p>Watch the global report embedded directly from YouTube:</p>
-    <iframe 
-        width="500" 
-        height="280" 
-        src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allowfullscreen>
-    </iframe>
-
     <hr>
-    <!-- Special Characters Footer -->
-    <p>&copy; 2026 Daily News Media. All rights reserved &amp; verified.</p>
-
+    
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg"
+        alt="Watch YouTube video"
+        width="560">
+    </a>
+    <p> 2026 Daily News Media.  verified.</p>
+    <h3>crafted by @ Vishesh Maurya; CSE15, with 💜 <br> &copy; All rights reserved  </h3>
+    <h4>Addmission number: 2026B01010334</h4>
 </body>
 </html>
