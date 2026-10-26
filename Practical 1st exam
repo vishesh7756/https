@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>BTech Course Information</title>
+    </head>
+    <body style="border:2px; solid black; padding: 20px;">
+        <h2>BTech Course Information</h2>
+        <p><b>The Btech course teaches CSE and Software Development.</b></p>
+        <p><b>Programming and Webtech are improtant subjects</b></p>
+        <h3>Subjects</h3>
+        <ol>
+    
+            <li>Programming in C</li>
+            <li>Web Technology</li>
+            <li>Data Management</li>
+        </ol>
+        <h3> Course objectives</h3>
+         <ul>
+            <li>Learn Programming Basics</li>
+            <li>Develop simple Websites</li>
+         </ul>
+
+    <p>&copy 2026 Btech department</p>
+<p><i> name -vishesh maurya </p>
+<p> add no. 2026B01010334, roll no-47</p>
+    </body>
+</html>
